@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_f4a1957a7f71bc6bfd1af9ea921a64a57b2546dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_49900cf94dc6bc65f3cc019d08e20052a072e6ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_c0b55ae288b41582b90ceb3bda3f0684b448bdc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_f4fc88aab5f95bdf2840b9f62d2848b2e7b6c0ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_3accda34d6c045ae4926e6c63d6235aada5356b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_4d9048145b18fcf4fb13fa713ac342b889aadd81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_879aad1f4d8492c0f15984b793dc0ba3c513f414\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_db2aa5f6893e14c6f33891acad9f907de2498425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_79cdd8388cbe7f35839cb72683957da58171cc1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_a7de6755ed4081b07c5469425ff5f408c36a716f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta4_ce73cb0751d7b2c7e32192bc17e5fc66113ce034\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_8be9a6f13798146ee2c7eb0ef06ee5d8a6ad3834\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_e9f8461c3f89df639123adeb6af23fc38b9d25da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_2315bb5112329bdccb89d0fe3ec7f733a47942ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_878b4e8115e9756d8a37356f141c9df2bc21655b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c476b393f960cbf100a3fbf5e958ecff20fe0cb7">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7986498b08668574a4f94b510ec0a7bb88db1c6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_eb7045ab07cda0674f5b080d19afd9f4bbe5c4fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f1dd6663dc2016d3551c2f1339e9c96d3e81014">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1cb487800189e6c92f1bc3b984364656b1e8d101\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_773ee843d13c71928bbf3a6b7cbb1cce06844bc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kethu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Kethu\Documents\HummingBird\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_d9d35e1def8444f5aeeeec844033ba8b7360c5c0\classes.dex" />
+    </item>
+
+</items>

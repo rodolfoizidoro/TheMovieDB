@@ -7,6 +7,8 @@ import java.text.SimpleDateFormat;
 
 public class Date {
 
+    //Manipulação de datas
+
     public static String formateDateFromstring(String inputFormat, String outputFormat, String inputDate){
 
         java.util.Date parsed = null;

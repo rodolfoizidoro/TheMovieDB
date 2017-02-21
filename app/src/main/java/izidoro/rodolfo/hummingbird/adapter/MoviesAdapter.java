@@ -11,9 +11,11 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-import izidoro.rodolfo.hummingbird.MainActivity;
+import izidoro.rodolfo.hummingbird.activity.MainActivity;
 import izidoro.rodolfo.hummingbird.R;
 import izidoro.rodolfo.hummingbird.helper.Date;
+import izidoro.rodolfo.hummingbird.helper.DownloadImage;
+import izidoro.rodolfo.hummingbird.helper.GetUrl;
 import izidoro.rodolfo.hummingbird.model.Movie;
 
 
@@ -21,6 +23,7 @@ import izidoro.rodolfo.hummingbird.model.Movie;
 public class MoviesAdapter extends BaseAdapter {
     private Context mContext;
     private List<Movie> mMovieList;
+    private DownloadImage DownloadImage;
 
     //Constructor
 
@@ -55,7 +58,7 @@ public class MoviesAdapter extends BaseAdapter {
        View v = View.inflate(mContext, R.layout.list_item_movie, null);
 
         Movie movie = mMovieList.get(position);
-        String uriPath = MainActivity.IMAGE_BASE_URL + movie.getPosterPath();
+        String uriPath = GetUrl.IMAGE_BASE_URL + movie.getPosterPath();
 
 
         TextView tvTitle = (TextView) v.findViewById(R.id.tv_name);
@@ -63,14 +66,17 @@ public class MoviesAdapter extends BaseAdapter {
         TextView tvData = (TextView)v.findViewById(R.id.tv_date);
         ImageView ivBack = (ImageView) v.findViewById(R.id.iv_back);
         Picasso.with(mContext).load(uriPath).resize(240,350).into(ivBack);
-//        //Set text for TextView
+
+        //Habilitar para ativar o modo nativo de imagem
+//        DownloadImage = new DownloadImage();
+//            DownloadImage.downloadfile(uriPath,ivBack);
+
         tvTitle.setText(movie.getTitle());
         tvDescription.setText(movie.getOverview());
         tvData.setText(Date.formateDateFromstring("yyyy-mm-dd","yyyy",movie.getReleaseDate()));
 
-//        //Save product id to tag
-        v.setTag(movie.getId());
-
         return v;
     }
+
+
 }
